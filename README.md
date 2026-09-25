@@ -42,7 +42,7 @@
 
 ## Quick Start
 
-> **Step 1** — Download `Aniimo_Tamer_Companion_v1.0` via the button above and extract the archive
+> **Step 1** — Download `Aniimo_Tamer_Companion_v1.1` via the button above and extract the archive
 
 > **Step 2** — Run `Aniimo_Companion_Installer`
 
